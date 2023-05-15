@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 
 msgid "Scenario I: The Tatterdemalion"
-msgstr ""
+msgstr "Scénario I :  L'Épouvantail"
 
 msgid ""
 "You awaken, entombed in ice. Your skin, your organs, even your bones are cold. You can't move and it's hard to form coherent thoughts… A tingle of warmth slowly spreads through your veins…\n"
@@ -20,60 +20,64 @@ msgid ""
 "Cryosleep… Despite having never heard the word before, you instinctively know what this procedure must be. Your mind may not recollect, but your body has been through this cycle of freezing and thawing many times. The thought of being familiar with something so foreign to you disturbs you to the core.\n"
 "When the warmth eventually reaches your fingers, the glass window slides open and releases you into a dark, metallic room. The control panel next to your tomb delivers its computerized announcement: \"Welcome back aboard the Tatterdemalion. The current star date is April 4, 2147.\" You look out the nearest window, only to witness a black canvas of infinite stars and a colossal cerulean sphere — the planet Neptune. The thought of drifting through the infinite expanse of space does not frighten you, for you have lived your entire life in space — not in your past life in Arkham, but in the person you embody now. As you begin wondering how much stranger this dream of yours can become, a loud blaring alarm echoes through the vacant ship…"
 msgstr ""
+"Vous vous réveillez dans une gangue de glace. Votre peau, vos organes, même vos os sont comme gelés. Vous n'arrivez pas à bouger et il vous est difficile de former des pensées cohérentes… Vous sentez une chaleur se répandre lentement dans vos veines...\n"
+"Lorsque vos paupières se dégèlent enfin, vous ne voyez qu'une vitre de verre dépolie. Que se passe-t-il ? Où êtes-vous ? Il y a quelques instants vous étiez dans une salle de théâtre et maintenant vous êtes dans une chambre de sommeil cryogénique.\n"
+"Sommeil cryogénique... Même si vous n'avez jamais entendu ce mot auparavant, vous savez instinctivement ce qu’est cette procédure. Votre esprit ne s'en souvient peut-être pas, mais votre corps a traversé plusieurs fois ce cycle de gel et de dégel. L'idée d'être familier avec quelque chose de si étrange vous perturbe au plus profond de votre être.\n"
+"Lorsque la chaleur atteint finalement vos doigts, la bulle en verre s'ouvre et vous libère dans une pièce sombre aux parois de métal. Le panneau de contrôle à côté de votre caisson s'allume et délivre son message préenregistré : « Bienvenue à bord du vaisseau L’Épouvantail. Nous sommes le 4 avril 2147 – calendrier stellaire. » Vous regardez par la fenêtre la plus proche, seulement pour apercevoir un champ d’étoiles infini et une sphère colossale de couleur céruléenne : la planète Neptune. La perspective de dériver à travers l'étendue sans fin de l'espace ne vous fait pas peur car vous avez l'impression d'y avoir vécu toute votre vie. Alors que vous commencez à vous demander à quel point tout cela semble étrange, une alarme assourdissante retentit à travers le navire…\n"
 
 msgid "Set aside the Virtual Access Key story asset, out of play."
-msgstr ""
+msgstr "Mettez de côté le soutien d'histoire Clé Neuronale, hors-jeu."
 
 msgid "Create the scanning deck. This is done by taking all the encounter cards with icons at the bottom of their back side and shuffling them together."
-msgstr ""
+msgstr "Mettez de côté toutes les cartes de rencontre avec des icônes au bas de leur verso, face cachée et sans regarder leur face révélée, pour former un deck Analyse."
 
 msgid "Put all remaining locations into play. Each investigator begins play at the Cryosleep Quarters."
-msgstr ""
+msgstr "Mettez en jeu les lieux restants. Chaque investigateur commence la partie dans les Chambres de Cryogénisation."
 
 msgid "Escape Pod Bay"
-msgstr ""
+msgstr "Capsules de Sauvetage"
 
 msgid "Cargo Hold"
-msgstr ""
+msgstr "Soute"
 
 msgid "Mess Hall"
-msgstr ""
+msgstr "Réfectoire"
 
 msgid "Ship's Bridge"
-msgstr ""
+msgstr "Passerelle de Commandement"
 
 msgid "Cryosleep Quarters"
-msgstr ""
+msgstr "Chambres de Cryogénisation"
 
 msgid "you were transported to the Virtual Dreamlands by Maja."
-msgstr ""
+msgstr "Maja vous a transporté dans les Contrées du Rêve Virtuelles."
 
 msgid "you entered the Virtual Dreamlands by your own means."
-msgstr ""
+msgstr "vous êtes entré dans les Contrées du Rêve Virtuelles par vos propres moyens."
 
 msgid "Did an investigator resign, get defeated, or end the game with Cybervirus in their hand?"
-msgstr ""
+msgstr "Est-ce-qu'un investigateur a abandonné ou a été vaincu avec la carte Cyber Virus dans sa main ?"
 
 msgid "Infected with Cybervirus"
-msgstr ""
+msgstr "Infecté par le Cyber Virus."
 
 msgctxt "masculine"
 msgid "#name# has been infected by the cybervirus."
-msgstr ""
+msgstr "#name# a été infecté par le Cyber Virus."
 
 msgctxt "feminine"
 msgid "#name# has been infected by the cybervirus."
-msgstr ""
+msgstr "#name# a été infectée par le Cyber Virus."
 
 msgctxt "nonbinary"
 msgid "#name# has been infected by the cybervirus."
-msgstr ""
+msgstr "#name# a été infecté par le Cyber Virus."
 
 msgid "Which card should be added to an investigator deck?"
 msgstr ""
 
 msgid "Virtual Access Key"
-msgstr ""
+msgstr "Clé Neuronale"
 
 msgid "Was any investigator instructed to add Virtual Access Key to their deck during the scenario?"
 msgstr ""
@@ -91,9 +95,14 @@ msgid ""
 "Once again you are startled awake, this time by the small, cold hands of a young girl. \"It worked! You're here! Please, follow me quickly.\" You are surprised to find yourself standing in a field of grass. The sky is black and seething, the sun unable to penetrate the dark, rolling storm clouds… You are no longer on the Tatterdemalion, but you don't recognize this place either. Metallic cylinders with red, pulsating lights stand tall in the distance, looming above a small town. Behind you is a large obsidian door.\n"
 "You ask the little girl about your whereabouts. \"You are in a simulated dream. In fact, you are in <b>my</b> dream. Now follow me quickly before the monster eats my friends.\""
 msgstr ""
+"Une fois de plus, vous êtes réveillé en sursaut, cette fois par les mains froides d'une petite fille. « Ça a marché ! Vous êtes là ! S'il vous plaît, suivez-moi, dépêchez-vous. » Vous êtes surpris de vous retrouver dans une prairie. Le ciel est noir et orageux. Le soleil semble incapable de pénétrer les nuages sombres et tumultueux… Vous n'êtes plus dans L’Épouvantail, mais vous ne reconnaissez pas cet endroit. Des cylindres métalliques avec des lumières rouges et pulsantes se profilent au loin, se dressant au-dessus d'une petite ville. Derrière vous se trouve une grande porte d’obsidienne.\n"
+"Vous demandez à la petite fille où vous vous trouvez. « Vous êtes dans une simulation. En fait, vous êtes dans mon rêve. Maintenant dépêchez-vous, suivez-moi avant que le monstre ne mange mes amis. »"
 
 msgid ""
 "You find yourself standing in a field of grass. You are no longer on the Tatterdemalion, but you don't recognize this place either.  The sky is black and seething, the sun unable to penetrate the dark, rolling storm clouds. Metallic cylinders with red, pulsating lights stand tall in the distance, looming above a small town.\n"
 "This system’s pocket dream reality is like nothing you have ever experienced. The colors, textures, sounds, and scents are startlingly realistic. Behind you is a large obsidian door, a virtual gateway to represent your arrival.\n"
 "You are surprised to see a little girl walking towards you. \"You got here just in time! Please, follow me quickly before the monster eats my friends.\""
 msgstr ""
+"Vous vous retrouvez debout dans une prairie. Vous n'êtes plus dans L’Épouvantail, mais vous ne reconnaissez pas cet endroit. Le ciel est noir et orageux. Le soleil semble incapable de pénétrer les nuages sombres et tumultueux. Des cylindres métalliques avec des lumières rouges et pulsantes se profilent au loin, se dressant au-dessus d'une petite ville."
+"Cette réalité simulée ne ressemble à rien de ce que vous connaissez. Les couleurs, les textures, les sons et les parfums sont étonnamment réalistes. Derrière vous se dresse une grande porte d'obsidienne, une passerelle virtuelle représentant le passage par où vous êtes arrivé."
+"Vous êtes surpris de voir une petite fille marcher vers vous. « Vous êtes arrivé juste à temps ! S'il vous plaît, suivez-moi avant que le monstre ne mange mes amis. »"
