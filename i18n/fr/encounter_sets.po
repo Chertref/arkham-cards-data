@@ -410,52 +410,52 @@ msgid "By the Book"
 msgstr "Suivre les Règles"
 
 msgid "The Tatterdemalion"
-msgstr ""
+msgstr "L’Épouvantail"
 
 msgid "Electric Nightmare"
-msgstr ""
+msgstr "Cauchemar Virtuel"
 
 msgid "Lost Quantum"
-msgstr ""
+msgstr "Quantum Perdu"
 
 msgid "In the Shadow of Earth"
-msgstr ""
+msgstr "Dans l'Ombre de la Terre"
 
 msgid "Strange Moons"
-msgstr ""
+msgstr "Étranges Lunes"
 
 msgid "The Machine in Yellow"
-msgstr ""
+msgstr "La Machine en Jaune"
 
 msgid "Fragment of Carcosa"
-msgstr ""
+msgstr "Le Fragment de Carcosa"
 
 msgid "Starfall"
-msgstr ""
+msgstr "Disparition Astrale"
 
 msgid "Deep Space"
-msgstr ""
+msgstr "Espace Profond"
 
 msgid "Anachronism"
-msgstr ""
+msgstr "Anachronisme"
 
 msgid "Dark Past"
-msgstr ""
+msgstr "Sombre Passé"
 
 msgid "Artificial Intelligence"
-msgstr ""
+msgstr "Intelligence Artificielle"
 
 msgid "Endtimes"
-msgstr ""
+msgstr "Fin des Temps"
 
 msgid "The Boogeyman"
-msgstr ""
+msgstr "Le Croque-Mitaine"
 
 msgid "Interstellar Predators"
-msgstr ""
+msgstr "Prédateurs Interstellaires"
 
 msgid "Hastur's Gaze"
-msgstr ""
+msgstr "Regard d'Hastur"
 
 msgid "A Sea of Troubles"
 msgstr ""
